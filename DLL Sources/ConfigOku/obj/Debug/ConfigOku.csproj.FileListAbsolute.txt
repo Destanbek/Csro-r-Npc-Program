@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\CSRO1.239NPC\lib\ConfigOku.dll
+C:\Users\Admin\Desktop\CSRO1.239NPC\lib\ConfigOku.pdb
+C:\Users\Admin\Desktop\CSRO1.239NPC\DLL Sources\ConfigOku\obj\Debug\ConfigOku.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSRO1.239NPC\DLL Sources\ConfigOku\obj\Debug\ConfigOku.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSRO1.239NPC\DLL Sources\ConfigOku\obj\Debug\ConfigOku.csproj.CopyComplete
+C:\Users\Admin\Desktop\CSRO1.239NPC\DLL Sources\ConfigOku\obj\Debug\ConfigOku.dll
+C:\Users\Admin\Desktop\CSRO1.239NPC\DLL Sources\ConfigOku\obj\Debug\ConfigOku.pdb
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\lib\ConfigOku.dll
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\lib\ConfigOku.pdb
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\DLL Sources\ConfigOku\obj\Debug\ConfigOku.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\DLL Sources\ConfigOku\obj\Debug\ConfigOku.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\DLL Sources\ConfigOku\obj\Debug\ConfigOku.csproj.CopyComplete
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\DLL Sources\ConfigOku\obj\Debug\ConfigOku.dll
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\DLL Sources\ConfigOku\obj\Debug\ConfigOku.pdb

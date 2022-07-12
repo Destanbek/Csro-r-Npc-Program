@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\Admin\Desktop\CSRO-R NPC ROGRAMI\CSRO1.239NPC.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D807F391-6E8A-4C4A-B10F-A747FCD575DB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>CSRORNPC</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <ApplicationVersion>1.0.2.1</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>CSRORNPC</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>GMHelper.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="activasyonn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyarCek.cs" />
+    <Compile Include="Config.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hardDisk.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="serial.cs" />
+    <Compile Include="Properties\Resources.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="activasyonn.resx">
+      <DependentUpon>activasyonn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnaMenu.resx" />
+    <EmbeddedResource Include="Config.resx">
+      <DependentUpon>Config.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="DLL Sources\ArtiBasmaRenkAyari\ArtiBasmaRenkAyari.csproj">
+      <Project>{ef7dced6-e355-4790-a26b-6a7bb799cbbd}</Project>
+      <Name>ArtiBasmaRenkAyari</Name>
+    </ProjectReference>
+    <ProjectReference Include="DLL Sources\item_mal\item_mal.csproj">
+      <Project>{59c2c9c0-61ff-4e01-88eb-4c791d5c8ee5}</Project>
+      <Name>item_mal</Name>
+    </ProjectReference>
+    <ProjectReference Include="DLL Sources\sqlDuzenle\sqlDuzenle.csproj">
+      <Project>{ecb609c6-056e-4f55-9884-5079b99e7d50}</Project>
+      <Name>sqlDuzenle</Name>
+    </ProjectReference>
+    <ProjectReference Include="DLL Sources\SQLGuncelle\SQLGuncelle.csproj">
+      <Project>{a231bd29-422d-4bf7-b168-593cd071044d}</Project>
+      <Name>SQLGuncelle</Name>
+    </ProjectReference>
+    <ProjectReference Include="DLL Sources\sql\sql.csproj">
+      <Project>{9a1b009f-f2d2-4585-9eac-462ce0e1ed0c}</Project>
+      <Name>sql</Name>
+    </ProjectReference>
+    <ProjectReference Include="DLL Sources\Tablo\Tablo.csproj">
+      <Project>{49dc3376-f353-4891-911a-a1db6e33e9c0}</Project>
+      <Name>Tablo</Name>
+    </ProjectReference>
+    <ProjectReference Include="DLL Sources\TxTDosyaOlustur\TxTDosyaOlustur.csproj">
+      <Project>{4d146821-46c8-4475-b09f-7b4c2e88bf91}</Project>
+      <Name>TxTDosyaOlustur</Name>
+    </ProjectReference>
+    <ProjectReference Include="DLL Sources\UserKontrol\UserKontrol.csproj">
+      <Project>{cf008f86-1560-43d9-a2b8-43859c53f6a1}</Project>
+      <Name>UserKontrol</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="GMHelper.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

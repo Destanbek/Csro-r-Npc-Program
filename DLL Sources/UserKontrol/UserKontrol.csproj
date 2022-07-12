@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <!--Project was exported from assembly: C:\Users\Admin\Desktop\CSRO1.239NPC\lib\UserKontrol.dll-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CF008F86-1560-43D9-A2B8-43859C53F6A1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>UserKontrol</AssemblyName>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <RootNamespace>UserKontrol</RootNamespace>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\lib\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bilgi1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="bitiss.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="bsr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="efpClass.cs" />
+    <Compile Include="Ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="itemEkleme.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="itemm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NPCEkle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="rarParlamasi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="renkPaleti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uyari1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Bilgi1.resx" />
+    <EmbeddedResource Include="bitiss.resx" />
+    <EmbeddedResource Include="bsr.resx" />
+    <EmbeddedResource Include="Ekle.resx" />
+    <EmbeddedResource Include="itemEkleme.resx">
+      <DependentUpon>itemEkleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="itemm.resx" />
+    <EmbeddedResource Include="NPCEkle.resx">
+      <DependentUpon>NPCEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx" />
+    <EmbeddedResource Include="rarParlamasi.resx" />
+    <EmbeddedResource Include="renkPaleti.resx" />
+    <EmbeddedResource Include="Uyari1.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\sqlDuzenle\sqlDuzenle.csproj">
+      <Project>{ecb609c6-056e-4f55-9884-5079b99e7d50}</Project>
+      <Name>sqlDuzenle</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SQLGuncelle\SQLGuncelle.csproj">
+      <Project>{a231bd29-422d-4bf7-b168-593cd071044d}</Project>
+      <Name>SQLGuncelle</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\sql\sql.csproj">
+      <Project>{9a1b009f-f2d2-4585-9eac-462ce0e1ed0c}</Project>
+      <Name>sql</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tablo\Tablo.csproj">
+      <Project>{49dc3376-f353-4891-911a-a1db6e33e9c0}</Project>
+      <Name>Tablo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TxTDosyaOlustur\TxTDosyaOlustur.csproj">
+      <Project>{4d146821-46c8-4475-b09f-7b4c2e88bf91}</Project>
+      <Name>TxTDosyaOlustur</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>
