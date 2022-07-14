@@ -1,0 +1,25 @@
+C:\Users\Admin\Desktop\CSRO1.239NPC\lib\Tablo.dll
+C:\Users\Admin\Desktop\CSRO1.239NPC\lib\Tablo.pdb
+C:\Users\Admin\Desktop\CSRO1.239NPC\DLL Sources\Tablo\obj\Debug\Tablo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSRO1.239NPC\DLL Sources\Tablo\obj\Debug\Tablo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSRO1.239NPC\DLL Sources\Tablo\obj\Debug\Tablo.csproj.CopyComplete
+C:\Users\Admin\Desktop\CSRO1.239NPC\DLL Sources\Tablo\obj\Debug\Tablo.dll
+C:\Users\Admin\Desktop\CSRO1.239NPC\DLL Sources\Tablo\obj\Debug\Tablo.pdb
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\lib\Tablo.dll
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\lib\Tablo.pdb
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\DLL Sources\Tablo\obj\Debug\Tablo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\DLL Sources\Tablo\obj\Debug\Tablo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\DLL Sources\Tablo\obj\Debug\Tablo.csproj.CopyComplete
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\DLL Sources\Tablo\obj\Debug\Tablo.dll
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\DLL Sources\Tablo\obj\Debug\Tablo.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\Tablo.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\Tablo.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\Tablo\bin\Debug\Tablo.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\Tablo\bin\Debug\Tablo.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\Tablo\bin\Debug\ConfigOku.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\Tablo\bin\Debug\sql.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\Tablo\obj\Debug\Tablo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\Tablo\obj\Debug\Tablo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\Tablo\obj\Debug\Tablo.csproj.CopyComplete
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\Tablo\obj\Debug\Tablo.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\Tablo\obj\Debug\Tablo.pdb

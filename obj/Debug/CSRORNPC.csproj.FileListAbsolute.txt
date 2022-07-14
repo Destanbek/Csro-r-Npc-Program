@@ -30,3 +30,37 @@ C:\Users\Admin\Desktop\CSRO-R NPC Programı\obj\Debug\CSRORNPC.csproj.CoreCompil
 C:\Users\Admin\Desktop\CSRO-R NPC Programı\obj\Debug\CSRORNPC.csproj.CopyComplete
 C:\Users\Admin\Desktop\CSRO-R NPC Programı\obj\Debug\CSRORNPC.exe
 C:\Users\Admin\Desktop\CSRO-R NPC Programı\obj\Debug\CSRORNPC.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\CSRORNPC.exe.config
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\CSRORNPC.exe
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\CSRORNPC.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\ArtiBasmaRenkAyari.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\ConfigOku.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\item_mal.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\NPCPos.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\sql.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\sqlDuzenle.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\SQLGuncelle.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\Tablo.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\TxTDosyaOlustur.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\UserKontrol.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\ArtiBasmaRenkAyari.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\ConfigOku.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\item_mal.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\NPCPos.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\sqlDuzenle.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\SQLGuncelle.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\sql.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\Tablo.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\TxTDosyaOlustur.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\bin\Debug\UserKontrol.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\obj\Debug\CSRORNPC.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\obj\Debug\CSRORNPC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\obj\Debug\CSRORNPC.activasyonn.resources
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\obj\Debug\CSRORNPC.AnaMenu.resources
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\obj\Debug\CSRORNPC.Config.resources
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\obj\Debug\CSRORNPC.Properties.Resources.resources
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\obj\Debug\CSRORNPC.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\obj\Debug\CSRORNPC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\obj\Debug\CSRORNPC.csproj.CopyComplete
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\obj\Debug\CSRORNPC.exe
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\obj\Debug\CSRORNPC.pdb

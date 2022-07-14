@@ -1,0 +1,20 @@
+C:\Users\Admin\Desktop\CSRO1.239NPC\lib\sql.dll
+C:\Users\Admin\Desktop\CSRO1.239NPC\lib\sql.pdb
+C:\Users\Admin\Desktop\CSRO1.239NPC\DLL Sources\sql\obj\Debug\sql.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSRO1.239NPC\DLL Sources\sql\obj\Debug\sql.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSRO1.239NPC\DLL Sources\sql\obj\Debug\sql.dll
+C:\Users\Admin\Desktop\CSRO1.239NPC\DLL Sources\sql\obj\Debug\sql.pdb
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\lib\sql.dll
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\lib\sql.pdb
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\DLL Sources\sql\obj\Debug\sql.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\DLL Sources\sql\obj\Debug\sql.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\DLL Sources\sql\obj\Debug\sql.dll
+C:\Users\Admin\Desktop\CSRO-R NPC Programı\DLL Sources\sql\obj\Debug\sql.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\sql.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\sql.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\sql\bin\Debug\sql.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\sql\bin\Debug\sql.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\sql\obj\Debug\sql.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\sql\obj\Debug\sql.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\sql\obj\Debug\sql.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\sql\obj\Debug\sql.pdb
