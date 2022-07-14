@@ -661,11 +661,17 @@ namespace UserKontrol
             this.cmbCharAdi = new System.Windows.Forms.ComboBox();
             this.txtX = new System.Windows.Forms.TextBox();
             this.grGrup = new System.Windows.Forms.GroupBox();
-            this.label11 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.txtGrup = new System.Windows.Forms.TextBox();
+            this.label20 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
             this.grNPCBolge = new System.Windows.Forms.GroupBox();
+            this.label22 = new System.Windows.Forms.Label();
+            this.label19 = new System.Windows.Forms.Label();
             this.cmbBolge = new System.Windows.Forms.ComboBox();
             this.grTab = new System.Windows.Forms.GroupBox();
+            this.label21 = new System.Windows.Forms.Label();
             this.btnYeniGrup = new System.Windows.Forms.Button();
             this.label15 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
@@ -683,19 +689,13 @@ namespace UserKontrol
             this.label9 = new System.Windows.Forms.Label();
             this.txtTab1 = new System.Windows.Forms.TextBox();
             this.btnKayit = new System.Windows.Forms.Button();
-            this.label19 = new System.Windows.Forms.Label();
-            this.label20 = new System.Windows.Forms.Label();
-            this.label21 = new System.Windows.Forms.Label();
-            this.label22 = new System.Windows.Forms.Label();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label7 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.grNPCIsmi.SuspendLayout();
             this.grPozisyon.SuspendLayout();
             this.grGrup.SuspendLayout();
+            this.groupBox1.SuspendLayout();
             this.grNPCBolge.SuspendLayout();
             this.grTab.SuspendLayout();
-            this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -1006,6 +1006,46 @@ namespace UserKontrol
             this.grGrup.TabStop = false;
             this.grGrup.Text = "NPC İtem Gruplaması";
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label7.ForeColor = System.Drawing.Color.White;
+            this.label7.Location = new System.Drawing.Point(65, 72);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(216, 13);
+            this.label7.TabIndex = 6;
+            this.label7.Text = "İsteğinize bağlı... En az Bir Tane Girilmelidir!!!";
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.txtGrup);
+            this.groupBox1.Controls.Add(this.label20);
+            this.groupBox1.Location = new System.Drawing.Point(10, 86);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(313, 39);
+            this.groupBox1.TabIndex = 5;
+            this.groupBox1.TabStop = false;
+            // 
+            // txtGrup
+            // 
+            this.txtGrup.BackColor = System.Drawing.Color.AliceBlue;
+            this.txtGrup.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtGrup.Location = new System.Drawing.Point(77, 12);
+            this.txtGrup.Name = "txtGrup";
+            this.txtGrup.Size = new System.Drawing.Size(221, 20);
+            this.txtGrup.TabIndex = 0;
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.ForeColor = System.Drawing.Color.White;
+            this.label20.Location = new System.Drawing.Point(11, 15);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(66, 13);
+            this.label20.TabIndex = 4;
+            this.label20.Text = "GRUP İSMİ:";
+            // 
             // label11
             // 
             this.label11.AutoSize = true;
@@ -1018,22 +1058,13 @@ namespace UserKontrol
             this.label11.Text = "NPC\'Tıklandığında Açılan Penceredeki Grup Adı\r\nÖrnek : \'Avatar Mall\' Gibi Bu Grou" +
     "p1 Olur.\r\n1.Avatar Mall\r\n2.Pet Shop\r\nGibisinden.";
             // 
-            // txtGrup
-            // 
-            this.txtGrup.BackColor = System.Drawing.Color.AliceBlue;
-            this.txtGrup.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.txtGrup.Location = new System.Drawing.Point(77, 12);
-            this.txtGrup.Name = "txtGrup";
-            this.txtGrup.Size = new System.Drawing.Size(221, 20);
-            this.txtGrup.TabIndex = 0;
-            // 
             // grNPCBolge
             // 
             this.grNPCBolge.AccessibleRole = System.Windows.Forms.AccessibleRole.Window;
             this.grNPCBolge.BackColor = System.Drawing.Color.Transparent;
             this.grNPCBolge.Controls.Add(this.label22);
-            this.grNPCBolge.Controls.Add(this.label19);
             this.grNPCBolge.Controls.Add(this.cmbBolge);
+            this.grNPCBolge.Controls.Add(this.label19);
             this.grNPCBolge.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.grNPCBolge.ForeColor = System.Drawing.Color.Yellow;
             this.grNPCBolge.Location = new System.Drawing.Point(9, 302);
@@ -1042,6 +1073,26 @@ namespace UserKontrol
             this.grNPCBolge.TabIndex = 6;
             this.grNPCBolge.TabStop = false;
             this.grNPCBolge.Text = "NPC Eklenecek Bölge";
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.ForeColor = System.Drawing.Color.White;
+            this.label22.Location = new System.Drawing.Point(197, 23);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(136, 13);
+            this.label22.TabIndex = 4;
+            this.label22.Text = "Npc\'nizin Bulunacağı Bölge";
+            // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.ForeColor = System.Drawing.Color.White;
+            this.label19.Location = new System.Drawing.Point(10, 22);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(51, 13);
+            this.label19.TabIndex = 3;
+            this.label19.Text = "Bölgeler :";
             // 
             // cmbBolge
             // 
@@ -1092,6 +1143,16 @@ namespace UserKontrol
             this.grTab.TabIndex = 7;
             this.grTab.TabStop = false;
             this.grTab.Text = "NPC Tab İsimleri";
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.ForeColor = System.Drawing.Color.White;
+            this.label21.Location = new System.Drawing.Point(98, 70);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(100, 26);
+            this.label21.TabIndex = 16;
+            this.label21.Text = "     TAB KODU\r\n(Tablodaki Kod Adı)";
             // 
             // btnYeniGrup
             // 
@@ -1271,67 +1332,6 @@ namespace UserKontrol
             this.btnKayit.UseVisualStyleBackColor = false;
             this.btnKayit.Click += new System.EventHandler(this.btnKayit_Click);
             // 
-            // label19
-            // 
-            this.label19.AutoSize = true;
-            this.label19.ForeColor = System.Drawing.Color.White;
-            this.label19.Location = new System.Drawing.Point(10, 22);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(51, 13);
-            this.label19.TabIndex = 3;
-            this.label19.Text = "Bölgeler :";
-            // 
-            // label20
-            // 
-            this.label20.AutoSize = true;
-            this.label20.ForeColor = System.Drawing.Color.White;
-            this.label20.Location = new System.Drawing.Point(11, 15);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(66, 13);
-            this.label20.TabIndex = 4;
-            this.label20.Text = "GRUP İSMİ:";
-            // 
-            // label21
-            // 
-            this.label21.AutoSize = true;
-            this.label21.ForeColor = System.Drawing.Color.White;
-            this.label21.Location = new System.Drawing.Point(98, 70);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(100, 26);
-            this.label21.TabIndex = 16;
-            this.label21.Text = "     TAB KODU\r\n(Tablodaki Kod Adı)";
-            // 
-            // label22
-            // 
-            this.label22.AutoSize = true;
-            this.label22.ForeColor = System.Drawing.Color.White;
-            this.label22.Location = new System.Drawing.Point(197, 23);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(136, 13);
-            this.label22.TabIndex = 4;
-            this.label22.Text = "Npc\'nizin Bulunacağı Bölge";
-            // 
-            // groupBox1
-            // 
-            this.groupBox1.Controls.Add(this.txtGrup);
-            this.groupBox1.Controls.Add(this.label20);
-            this.groupBox1.Location = new System.Drawing.Point(10, 86);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(313, 39);
-            this.groupBox1.TabIndex = 5;
-            this.groupBox1.TabStop = false;
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label7.ForeColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(65, 72);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(213, 13);
-            this.label7.TabIndex = 6;
-            this.label7.Text = "İsteğinize bağlı... Enaz Bir Tane Girilmelidir!!!";
-            // 
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.btnVazgec);
@@ -1366,12 +1366,12 @@ namespace UserKontrol
             this.grPozisyon.PerformLayout();
             this.grGrup.ResumeLayout(false);
             this.grGrup.PerformLayout();
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
             this.grNPCBolge.ResumeLayout(false);
             this.grNPCBolge.PerformLayout();
             this.grTab.ResumeLayout(false);
             this.grTab.PerformLayout();
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
             this.ResumeLayout(false);
 
