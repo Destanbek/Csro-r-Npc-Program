@@ -36,7 +36,7 @@ namespace sqlDuzenle
       }
       catch (Exception ex)
       {
-        int num = (int) MessageBox.Show("错误:无法连接");
+        int num = (int) MessageBox.Show("Hata Bağlantı Kurulamadı");
         this.baglanti = false;
       }
     }
@@ -105,7 +105,7 @@ namespace sqlDuzenle
       DataTable dataTable2 = new DataTable();
       adapter.Fill(dataTable2);
       this.frm.pro.Maximum = 100;
-      this.frm.lblBilgi.Text = tablo + " 商城背包表...";
+      this.frm.lblBilgi.Text = tablo + " Tablosu Düzeltiliyor...";
       for (int index1 = 0; index1 < 2; ++index1)
       {
         if (index1 < 1)
@@ -126,7 +126,7 @@ namespace sqlDuzenle
         }
         else
         {
-          this.frm.lblBilgi.Text = tablo + " 数据到商城背包表";
+          this.frm.lblBilgi.Text = tablo + " Tablosuna Veriler Yazılıyor";
           Application.DoEvents();
         }
       }
@@ -153,7 +153,7 @@ namespace sqlDuzenle
       DataSet dataSet = new DataSet();
       for (int index1 = 0; index1 < strArray.Length; ++index1)
       {
-        this.frm.lblBilgi.Text = strArray[index1][0] + " 原始商城背包表与其他商城背包表的比较";
+        this.frm.lblBilgi.Text = strArray[index1][0] + " Toblosu Diğer Tablolarla Karşılaştırılıyor";
         DataTable dataTable = new DataTable();
         new SqlDataAdapter(new SqlCommand("select " + strArray[index1][1] + " from " + strArray[index1][0], this.con)).Fill(dataTable);
         dataSet.Tables.Add(dataTable);
