@@ -209,11 +209,12 @@ namespace UserKontrol
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.DarkCyan;
+            this.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnTamam);
             this.Name = "bitiss";
-            this.Size = new System.Drawing.Size(410, 304);
+            this.Size = new System.Drawing.Size(432, 357);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);

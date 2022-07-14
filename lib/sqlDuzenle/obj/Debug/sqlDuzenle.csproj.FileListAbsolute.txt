@@ -38,3 +38,43 @@ C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\sqlDuzenle\obj\Debug\sqlDuzen
 C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\sqlDuzenle\obj\Debug\sqlDuzenle.csproj.CopyComplete
 C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\sqlDuzenle\obj\Debug\sqlDuzenle.dll
 C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\sqlDuzenle\obj\Debug\sqlDuzenle.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\bin\Debug\sqlDuzenle.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\bin\Debug\sqlDuzenle.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\bin\Debug\ConfigOku.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\bin\Debug\item_mal.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\bin\Debug\sql.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\bin\Debug\SQLGuncelle.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\bin\Debug\Tablo.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\bin\Debug\TxTDosyaOlustur.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\bin\Debug\ConfigOku.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\bin\Debug\item_mal.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\bin\Debug\SQLGuncelle.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\bin\Debug\Tablo.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\bin\Debug\TxTDosyaOlustur.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\obj\Debug\sqlDuzenle.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\obj\Debug\sqlDuzenle.AraYuz.resources
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\obj\Debug\sqlDuzenle.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\obj\Debug\sqlDuzenle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\obj\Debug\sqlDuzenle.csproj.CopyComplete
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\obj\Debug\sqlDuzenle.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\sqlDuzenle\obj\Debug\sqlDuzenle.pdb
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\bin\Debug\sqlDuzenle.dll
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\bin\Debug\sqlDuzenle.pdb
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\bin\Debug\ConfigOku.dll
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\bin\Debug\item_mal.dll
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\bin\Debug\sql.dll
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\bin\Debug\SQLGuncelle.dll
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\bin\Debug\Tablo.dll
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\bin\Debug\TxTDosyaOlustur.dll
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\bin\Debug\ConfigOku.pdb
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\bin\Debug\item_mal.pdb
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\bin\Debug\SQLGuncelle.pdb
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\bin\Debug\Tablo.pdb
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\bin\Debug\TxTDosyaOlustur.pdb
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\obj\Debug\sqlDuzenle.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\obj\Debug\sqlDuzenle.AraYuz.resources
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\obj\Debug\sqlDuzenle.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\obj\Debug\sqlDuzenle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\obj\Debug\sqlDuzenle.csproj.CopyComplete
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\obj\Debug\sqlDuzenle.dll
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sqlDuzenle\obj\Debug\sqlDuzenle.pdb

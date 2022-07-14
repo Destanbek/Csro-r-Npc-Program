@@ -94,7 +94,7 @@ namespace SQLGuncelle
             // 
             this.btnTamam.BackColor = System.Drawing.Color.Lavender;
             this.btnTamam.ForeColor = System.Drawing.Color.Black;
-            this.btnTamam.Location = new System.Drawing.Point(146, 131);
+            this.btnTamam.Location = new System.Drawing.Point(160, 131);
             this.btnTamam.Name = "btnTamam";
             this.btnTamam.Size = new System.Drawing.Size(75, 34);
             this.btnTamam.TabIndex = 1;
@@ -108,7 +108,7 @@ namespace SQLGuncelle
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.label3);
-            this.groupBox1.Location = new System.Drawing.Point(6, 3);
+            this.groupBox1.Location = new System.Drawing.Point(20, 3);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(354, 122);
             this.groupBox1.TabIndex = 2;
@@ -118,12 +118,12 @@ namespace SQLGuncelle
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.DarkCyan;
+            this.BackColor = System.Drawing.Color.DarkSlateGray;
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnTamam);
             this.ForeColor = System.Drawing.Color.Maroon;
             this.Name = "kapanis";
-            this.Size = new System.Drawing.Size(367, 173);
+            this.Size = new System.Drawing.Size(424, 199);
             this.Load += new System.EventHandler(this.kapanis_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

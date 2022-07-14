@@ -49,7 +49,7 @@ namespace SQLGuncelle
             // 
             this.btnEvet.BackColor = System.Drawing.Color.Lavender;
             this.btnEvet.ForeColor = System.Drawing.Color.Black;
-            this.btnEvet.Location = new System.Drawing.Point(126, 123);
+            this.btnEvet.Location = new System.Drawing.Point(167, 135);
             this.btnEvet.Name = "btnEvet";
             this.btnEvet.Size = new System.Drawing.Size(101, 31);
             this.btnEvet.TabIndex = 1;
@@ -61,7 +61,7 @@ namespace SQLGuncelle
             // 
             this.btnHayir.BackColor = System.Drawing.Color.Lavender;
             this.btnHayir.ForeColor = System.Drawing.Color.Black;
-            this.btnHayir.Location = new System.Drawing.Point(236, 123);
+            this.btnHayir.Location = new System.Drawing.Point(277, 135);
             this.btnHayir.Name = "btnHayir";
             this.btnHayir.Size = new System.Drawing.Size(101, 31);
             this.btnHayir.TabIndex = 1;
@@ -73,13 +73,14 @@ namespace SQLGuncelle
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.DarkCyan;
+            this.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Controls.Add(this.btnHayir);
             this.Controls.Add(this.btnEvet);
             this.Controls.Add(this.lblUyari);
             this.ForeColor = System.Drawing.Color.Maroon;
             this.Name = "Uyari";
-            this.Size = new System.Drawing.Size(462, 164);
+            this.Size = new System.Drawing.Size(530, 186);
             this.Load += new System.EventHandler(this.Uyari_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

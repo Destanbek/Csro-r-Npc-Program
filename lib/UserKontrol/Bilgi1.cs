@@ -95,7 +95,7 @@ namespace UserKontrol
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.btnHayir);
             this.groupBox1.Controls.Add(this.btnEvet);
-            this.groupBox1.Location = new System.Drawing.Point(15, 13);
+            this.groupBox1.Location = new System.Drawing.Point(11, 13);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(442, 130);
             this.groupBox1.TabIndex = 2;
@@ -105,10 +105,11 @@ namespace UserKontrol
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.DarkCyan;
+            this.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Controls.Add(this.groupBox1);
             this.Name = "Bilgi1";
-            this.Size = new System.Drawing.Size(476, 159);
+            this.Size = new System.Drawing.Size(490, 201);
             this.Load += new System.EventHandler(this.Bilgi_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

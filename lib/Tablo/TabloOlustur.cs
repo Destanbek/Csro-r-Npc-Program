@@ -317,7 +317,7 @@ namespace Tablo
       }
       else
       {
-        int num1 = (int) MessageBox.Show("X,Y,Z,Yön Kısımları Boş Olamaz");
+        int num1 = (int) MessageBox.Show("X,Y,Z,Yon Kısımları Boş Olamaz");
       }
       try
       {
@@ -398,11 +398,6 @@ namespace Tablo
         str1 = "NPC_JUPI";
         str2 = "1,0,0,0,0,0,0,90,2,NPC_JUPI";
       }
-      else if (bolge == "ARABIA")
-      {
-        str1 = "NPC_AR";
-        str2 = "1,0,0,0,0,0,0,90,2,NPC_AR";
-      }
       bool flag2 = false;
       for (int index = 0; index < dataset.Tables[nameof (Tab_RefHive)].Rows.Count; ++index)
       {
@@ -445,7 +440,7 @@ namespace Tablo
           string[] strArray = new string[12]
           {
             "1",
-            "9",
+            "15",
             "1",
             "STORE_" + str,
             "-1",
@@ -471,7 +466,7 @@ namespace Tablo
           string[] strArray = new string[13]
           {
             "1",
-            "9",
+            "15",
             "1",
             "GROUP_STORE_" + str,
             NPCAdi,
@@ -497,7 +492,7 @@ namespace Tablo
           string[] strArray = new string[4]
           {
             "1",
-            "9",
+            "15",
             "GROUP_STORE_" + str,
             "STORE_" + str
           };
@@ -565,7 +560,7 @@ namespace Tablo
           string[] strArray = new string[5]
           {
             "1",
-            "9",
+            "15",
             "1",
             "STORE_" + str + "_GROUP" + (object) grNo,
             "SN_STORE_" + str + "_GROUP" + (object) grNo
@@ -589,7 +584,7 @@ namespace Tablo
           string[] strArray1 = new string[4]
           {
             "1",
-            "9",
+            "15",
             "STORE_" + str,
             "STORE_" + str + "_GROUP" + (object) grNo
           };
@@ -637,7 +632,7 @@ namespace Tablo
         catch
         {
           flag = false;
-          int num6 = (int) MessageBox.Show("Gurup Adi tablosunda hata oluştu");
+          int num6 = (int) MessageBox.Show("GurupAdi tablosunda hata oluştu");
         }
       }
       return flag;
@@ -689,7 +684,7 @@ namespace Tablo
               string[] strArray2 = new string[6]
               {
                 "1",
-                "9",
+                "15",
                 "1",
                 "STORE_" + str + "_TAB" + (object) tabSiraNo,
                 "STORE_" + str + "_GROUP" + (object) grNo,
@@ -763,7 +758,7 @@ namespace Tablo
           string[] strArray = new string[5]
           {
             "1",
-            "9",
+            "15",
             "1",
             "STORE_" + str + "_GROUP" + (object) grNo,
             "SN_STORE_" + str + "_GROUP" + (object) grNo
@@ -787,7 +782,7 @@ namespace Tablo
           string[] strArray = new string[4]
           {
             "1",
-            "9",
+            "15",
             "STORE_" + str,
             "STORE_" + str + "_GROUP" + (object) grNo
           };
@@ -826,7 +821,7 @@ namespace Tablo
         catch
         {
           flag = false;
-          int num6 = (int) MessageBox.Show("Gurup Adi tablosunda hata oluştu");
+          int num6 = (int) MessageBox.Show("GurupAdi tablosunda hata oluştu");
         }
       }
       return flag;
@@ -869,7 +864,7 @@ namespace Tablo
               string[] strArray2 = new string[6]
               {
                 "1",
-                "9",
+                "15",
                 "1",
                 "STORE_" + str + "_TAB" + (object) tabSiraNo,
                 "STORE_" + str + "_GROUP" + (object) grNo,

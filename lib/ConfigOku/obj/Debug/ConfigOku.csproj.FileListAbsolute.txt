@@ -22,3 +22,19 @@ C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\ConfigOku\obj\Debug\ConfigOku
 C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\ConfigOku\obj\Debug\ConfigOku.csproj.CopyComplete
 C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\ConfigOku\obj\Debug\ConfigOku.dll
 C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\ConfigOku\obj\Debug\ConfigOku.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\ConfigOku\bin\Debug\ConfigOku.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\ConfigOku\bin\Debug\ConfigOku.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\ConfigOku\bin\Debug\sql.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\ConfigOku\obj\Debug\ConfigOku.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\ConfigOku\obj\Debug\ConfigOku.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\ConfigOku\obj\Debug\ConfigOku.csproj.CopyComplete
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\ConfigOku\obj\Debug\ConfigOku.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\ConfigOku\obj\Debug\ConfigOku.pdb
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\ConfigOku\bin\Debug\ConfigOku.dll
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\ConfigOku\bin\Debug\ConfigOku.pdb
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\ConfigOku\bin\Debug\sql.dll
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\ConfigOku\obj\Debug\ConfigOku.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\ConfigOku\obj\Debug\ConfigOku.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\ConfigOku\obj\Debug\ConfigOku.csproj.CopyComplete
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\ConfigOku\obj\Debug\ConfigOku.dll
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\ConfigOku\obj\Debug\ConfigOku.pdb

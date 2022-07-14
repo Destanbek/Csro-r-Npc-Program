@@ -212,6 +212,7 @@ namespace UserKontrol
             // 
             this.pnlOrta.BackColor = System.Drawing.Color.Transparent;
             this.pnlOrta.Dock = System.Windows.Forms.DockStyle.Left;
+            this.pnlOrta.ForeColor = System.Drawing.Color.Black;
             this.pnlOrta.Location = new System.Drawing.Point(201, 121);
             this.pnlOrta.Name = "pnlOrta";
             this.pnlOrta.Size = new System.Drawing.Size(242, 381);

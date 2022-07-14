@@ -18,3 +18,15 @@ C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\TxTDosyaOlustur\obj\Debug\TxT
 C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\TxTDosyaOlustur\obj\Debug\TxTDosyaOlustur.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\TxTDosyaOlustur\obj\Debug\TxTDosyaOlustur.dll
 C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\TxTDosyaOlustur\obj\Debug\TxTDosyaOlustur.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\TxTDosyaOlustur\bin\Debug\TxTDosyaOlustur.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\TxTDosyaOlustur\bin\Debug\TxTDosyaOlustur.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\TxTDosyaOlustur\obj\Debug\TxTDosyaOlustur.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\TxTDosyaOlustur\obj\Debug\TxTDosyaOlustur.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\TxTDosyaOlustur\obj\Debug\TxTDosyaOlustur.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\TxTDosyaOlustur\obj\Debug\TxTDosyaOlustur.pdb
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\TxTDosyaOlustur\bin\Debug\TxTDosyaOlustur.dll
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\TxTDosyaOlustur\bin\Debug\TxTDosyaOlustur.pdb
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\TxTDosyaOlustur\obj\Debug\TxTDosyaOlustur.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\TxTDosyaOlustur\obj\Debug\TxTDosyaOlustur.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\TxTDosyaOlustur\obj\Debug\TxTDosyaOlustur.dll
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\TxTDosyaOlustur\obj\Debug\TxTDosyaOlustur.pdb

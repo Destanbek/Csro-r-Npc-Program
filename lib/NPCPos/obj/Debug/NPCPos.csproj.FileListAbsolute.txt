@@ -7,3 +7,21 @@ C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\NPCPos\obj\Debug\NPCPos.cspro
 C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\NPCPos\obj\Debug\NPCPos.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\NPCPos\obj\Debug\NPCPos.dll
 C:\Users\Admin\Desktop\Csro-r-Npc-Program-main\lib\NPCPos\obj\Debug\NPCPos.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\NPCPos\bin\Debug\NPCPos.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\NPCPos\bin\Debug\NPCPos.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\NPCPos\obj\Debug\NPCPos.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\NPCPos\obj\Debug\NPCPos.NPCYon.resources
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\NPCPos\obj\Debug\NPCPos.Properties.Resources.resources
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\NPCPos\obj\Debug\NPCPos.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\NPCPos\obj\Debug\NPCPos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\NPCPos\obj\Debug\NPCPos.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program Source\lib\NPCPos\obj\Debug\NPCPos.pdb
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\NPCPos\bin\Debug\NPCPos.dll
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\NPCPos\bin\Debug\NPCPos.pdb
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\NPCPos\obj\Debug\NPCPos.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\NPCPos\obj\Debug\NPCPos.NPCYon.resources
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\NPCPos\obj\Debug\NPCPos.Properties.Resources.resources
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\NPCPos\obj\Debug\NPCPos.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\NPCPos\obj\Debug\NPCPos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\NPCPos\obj\Debug\NPCPos.dll
+C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\NPCPos\obj\Debug\NPCPos.pdb

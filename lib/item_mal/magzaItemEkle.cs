@@ -388,7 +388,8 @@ namespace item_mal
             // 
             // btnTumItem
             // 
-            this.btnTumItem.BackColor = System.Drawing.Color.RoyalBlue;
+            this.btnTumItem.BackColor = System.Drawing.Color.Lavender;
+            this.btnTumItem.ForeColor = System.Drawing.Color.Black;
             this.btnTumItem.Location = new System.Drawing.Point(394, 20);
             this.btnTumItem.Name = "btnTumItem";
             this.btnTumItem.Size = new System.Drawing.Size(39, 23);

@@ -86,7 +86,7 @@ namespace UserKontrol
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.DarkCyan;
+            this.BackColor = System.Drawing.Color.DarkSlateGray;
             this.Controls.Add(this.proAlt);
             this.Controls.Add(this.lblAlt);
             this.Controls.Add(this.proUst);

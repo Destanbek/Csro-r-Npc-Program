@@ -606,7 +606,7 @@ namespace UserKontrol
             int num = (int)new Bilgi()
             {
                 ac = true,
-                _uyariMetni = "Tüm Bilgiler Alındı\nSQLServer ve Medya.PK2 Dosyalarına Eklenecek Dosyalar Oluşturulacak\nEminmisiniz?",
+                _uyariMetni = "Tüm Bilgiler Alındı\nSQLServer ve Medya.PK2 Dosyalarına Eklenecek Dosyalar Oluşturulacak\nEmin misiniz?",
                 tabloSet = this.dsTablolar,
                 bolge = this.bolgeAdi,
                 grNo = this._grSiraNo,
