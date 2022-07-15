@@ -57,3 +57,14 @@ C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\ArtiBasmaRenkAyari\obj\Debu
 C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\ArtiBasmaRenkAyari\obj\Debug\ArtiBasmaRenkAyari.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\ArtiBasmaRenkAyari\obj\Debug\ArtiBasmaRenkAyari.dll
 C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\ArtiBasmaRenkAyari\obj\Debug\ArtiBasmaRenkAyari.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\ArtiBasmaRenkAyari\bin\Debug\ArtiBasmaRenkAyari.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\ArtiBasmaRenkAyari\bin\Debug\ArtiBasmaRenkAyari.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\ArtiBasmaRenkAyari\obj\Debug\ArtiBasmaRenkAyari.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\ArtiBasmaRenkAyari\obj\Debug\ArtiBasmaRenkAyari.ArtiRenkleri.resources
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\ArtiBasmaRenkAyari\obj\Debug\ArtiBasmaRenkAyari.maske.resources
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\ArtiBasmaRenkAyari\obj\Debug\ArtiBasmaRenkAyari.Properties.Resources.resources
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\ArtiBasmaRenkAyari\obj\Debug\ArtiBasmaRenkAyari.yeniTree.resources
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\ArtiBasmaRenkAyari\obj\Debug\ArtiBasmaRenkAyari.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\ArtiBasmaRenkAyari\obj\Debug\ArtiBasmaRenkAyari.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\ArtiBasmaRenkAyari\obj\Debug\ArtiBasmaRenkAyari.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\ArtiBasmaRenkAyari\obj\Debug\ArtiBasmaRenkAyari.pdb

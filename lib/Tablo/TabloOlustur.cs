@@ -440,7 +440,7 @@ namespace Tablo
           string[] strArray = new string[12]
           {
             "1",
-            "15",
+            "33",
             "1",
             "STORE_" + str,
             "-1",
@@ -466,7 +466,7 @@ namespace Tablo
           string[] strArray = new string[13]
           {
             "1",
-            "15",
+            "33",
             "1",
             "GROUP_STORE_" + str,
             NPCAdi,
@@ -492,7 +492,7 @@ namespace Tablo
           string[] strArray = new string[4]
           {
             "1",
-            "15",
+            "33",
             "GROUP_STORE_" + str,
             "STORE_" + str
           };
@@ -560,7 +560,7 @@ namespace Tablo
           string[] strArray = new string[5]
           {
             "1",
-            "15",
+            "33",
             "1",
             "STORE_" + str + "_GROUP" + (object) grNo,
             "SN_STORE_" + str + "_GROUP" + (object) grNo
@@ -584,7 +584,7 @@ namespace Tablo
           string[] strArray1 = new string[4]
           {
             "1",
-            "15",
+            "33",
             "STORE_" + str,
             "STORE_" + str + "_GROUP" + (object) grNo
           };
@@ -684,7 +684,7 @@ namespace Tablo
               string[] strArray2 = new string[6]
               {
                 "1",
-                "15",
+                "33",
                 "1",
                 "STORE_" + str + "_TAB" + (object) tabSiraNo,
                 "STORE_" + str + "_GROUP" + (object) grNo,
@@ -758,7 +758,7 @@ namespace Tablo
           string[] strArray = new string[5]
           {
             "1",
-            "15",
+            "33",
             "1",
             "STORE_" + str + "_GROUP" + (object) grNo,
             "SN_STORE_" + str + "_GROUP" + (object) grNo
@@ -782,7 +782,7 @@ namespace Tablo
           string[] strArray = new string[4]
           {
             "1",
-            "15",
+            "33",
             "STORE_" + str,
             "STORE_" + str + "_GROUP" + (object) grNo
           };
@@ -864,7 +864,7 @@ namespace Tablo
               string[] strArray2 = new string[6]
               {
                 "1",
-                "15",
+                "33",
                 "1",
                 "STORE_" + str + "_TAB" + (object) tabSiraNo,
                 "STORE_" + str + "_GROUP" + (object) grNo,

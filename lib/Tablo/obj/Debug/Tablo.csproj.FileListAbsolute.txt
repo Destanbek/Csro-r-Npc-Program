@@ -41,3 +41,12 @@ C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\Tablo\obj\Debug\Tablo.cspro
 C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\Tablo\obj\Debug\Tablo.csproj.CopyComplete
 C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\Tablo\obj\Debug\Tablo.dll
 C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\Tablo\obj\Debug\Tablo.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\Tablo\bin\Debug\Tablo.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\Tablo\bin\Debug\Tablo.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\Tablo\bin\Debug\ConfigOku.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\Tablo\bin\Debug\sql.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\Tablo\obj\Debug\Tablo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\Tablo\obj\Debug\Tablo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\Tablo\obj\Debug\Tablo.csproj.CopyComplete
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\Tablo\obj\Debug\Tablo.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\Tablo\obj\Debug\Tablo.pdb

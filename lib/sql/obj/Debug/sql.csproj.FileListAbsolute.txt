@@ -30,3 +30,9 @@ C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sql\obj\Debug\sql.csproj.As
 C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sql\obj\Debug\sql.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sql\obj\Debug\sql.dll
 C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\sql\obj\Debug\sql.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\sql\bin\Debug\sql.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\sql\bin\Debug\sql.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\sql\obj\Debug\sql.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\sql\obj\Debug\sql.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\sql\obj\Debug\sql.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\sql\obj\Debug\sql.pdb

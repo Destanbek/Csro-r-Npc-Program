@@ -1092,7 +1092,7 @@ namespace UserKontrol
           string[] strArray2 = new string[15]
           {
             "1",
-            "15",
+            "33",
             this.itemAdi,
             str,
             "0",
@@ -1196,7 +1196,7 @@ namespace UserKontrol
         string[] strArray = new string[29]
         {
           "1",
-          "15",
+          "33",
           this.gelenItem,
           this.gelenItem.Substring(8),
           "0",
@@ -1234,7 +1234,7 @@ namespace UserKontrol
       string[] strArray1 = new string[14]
       {
         "1",
-        "15",
+        "33",
         this.tc.SelectedTab.Name,
         this.gelenItem,
         this.slotNo,
@@ -1278,7 +1278,7 @@ namespace UserKontrol
         string[] strArray = new string[17]
         {
           "1",
-          "15",
+          "33",
           "3",
           "PACKAGE_" + this.gelenItem,
           "0",
@@ -1320,7 +1320,7 @@ namespace UserKontrol
         string[] strArray = new string[29]
         {
           "1",
-          "15",
+          "33",
           "PACKAGE_" + this.gelenItem,
           this.gelenItem,
           "0",
@@ -1357,7 +1357,7 @@ namespace UserKontrol
       string[] strArray1 = new string[14]
       {
         "1",
-        "15",
+        "33",
         this.tc.SelectedTab.Name,
         "PACKAGE_" + this.gelenItem,
         this.slotNo,

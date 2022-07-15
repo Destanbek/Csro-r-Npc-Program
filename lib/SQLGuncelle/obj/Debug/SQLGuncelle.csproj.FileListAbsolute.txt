@@ -74,3 +74,19 @@ C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\SQLGuncelle\obj\Debug\SQLGu
 C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\SQLGuncelle\obj\Debug\SQLGuncelle.csproj.CopyComplete
 C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\SQLGuncelle\obj\Debug\SQLGuncelle.dll
 C:\Users\Admin\Desktop\Csro-r Npc Program Source\lib\SQLGuncelle\obj\Debug\SQLGuncelle.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\SQLGuncelle\bin\Debug\SQLGuncelle.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\SQLGuncelle\bin\Debug\SQLGuncelle.pdb
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\SQLGuncelle\bin\Debug\ConfigOku.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\SQLGuncelle\bin\Debug\sql.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\SQLGuncelle\bin\Debug\TxTDosyaOlustur.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\SQLGuncelle\obj\Debug\SQLGuncelle.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\SQLGuncelle\obj\Debug\SQLGuncelle.Bilgi.resources
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\SQLGuncelle\obj\Debug\SQLGuncelle.IslemYap.resources
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\SQLGuncelle\obj\Debug\SQLGuncelle.kapanis.resources
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\SQLGuncelle\obj\Debug\SQLGuncelle.Properties.Resources.resources
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\SQLGuncelle\obj\Debug\SQLGuncelle.Uyari.resources
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\SQLGuncelle\obj\Debug\SQLGuncelle.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\SQLGuncelle\obj\Debug\SQLGuncelle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\SQLGuncelle\obj\Debug\SQLGuncelle.csproj.CopyComplete
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\SQLGuncelle\obj\Debug\SQLGuncelle.dll
+C:\Users\Admin\Desktop\Csro-r-Npc-Program\lib\SQLGuncelle\obj\Debug\SQLGuncelle.pdb

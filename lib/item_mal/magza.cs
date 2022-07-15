@@ -501,7 +501,7 @@ namespace item_mal
         string[] strArray1 = new string[17]
         {
           "1",
-          "9",
+          "33",
           "3",
           "PACKAGE_" + itemName,
           "0",
@@ -525,7 +525,7 @@ namespace item_mal
         string[] strArray2 = new string[29]
         {
           "1",
-          "9",
+          "33",
           "PACKAGE_" + itemName,
           itemName,
           "0",
@@ -564,7 +564,7 @@ namespace item_mal
           string[] strArray4 = new string[15]
           {
             "1",
-            "9",
+            "33",
             "PACKAGE_" + itemName,
             strArray3[index],
             "0",
@@ -587,7 +587,7 @@ namespace item_mal
         string[] strArray5 = new string[14]
         {
           "1",
-          "9",
+          "33",
           this.tabIsmi,
           "PACKAGE_" + itemName,
           (this.sonSlot + 1).ToString(),
